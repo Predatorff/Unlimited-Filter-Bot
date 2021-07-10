@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("𝘊𝘭𝘪𝘤𝘬 𝘮𝘦😉", callback_data="help_data")
                 ]
             ]
         ),
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("🎯𝘎𝘳𝘰𝘶𝘱🎯", url="https://t.me/Cinema_world_officiel"),
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘓𝘪𝘴𝘵🎯", url="https://t.me/cw_access_bot"),
+
                 ]
             ]
         ),
