@@ -243,12 +243,10 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎯𝘎𝘳𝘰𝘶𝘱🎯", url="https://t.me/Cinema_world_officiel"),
-                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
-                ],
-                [
-                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘓𝘪𝘴𝘵🎯", url="https://t.me/cw_access_bot"),
+                    InlineKeyboardButton("BACK📲", callback_data="help_data"),
+                    InlineKeyboardButton("CLOSE🔐", callback_data="close_data"),
 
+                    
                 ]
             ]
         ),
