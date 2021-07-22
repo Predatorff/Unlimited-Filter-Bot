@@ -51,12 +51,15 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Want a Custom Bot Like This?", url="https://t.me/potatospecs"),
-                    InlineKeyboardButton("Maintained By", url="https://t.me/potatospecs")
+                    InlineKeyboardButton(" Home 🏠", callback_data="start_data"),
+
+                    InlineKeyboardButton("CLOSE 🔐", callback_data="close_data")
+
                 ],
+
                 [
-                    InlineKeyboardButton("Modified By", url="https://t.me/potatospecs"),
-                    InlineKeyboardButton("contact me", url="https://t.me/potatospecs")
+
+                    InlineKeyboardButton("about 📲", callback_data="callback_data="help_data"),
                 ]
             ]
         )
