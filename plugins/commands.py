@@ -217,11 +217,11 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💯 Request Group ⚠️ ❗️", url="https://t.me/Cinema_world_officiel"),
-                    InlineKeyboardButton("💯 Main Channel ⚠️ ❗️", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
+                    InlineKeyboardButton("🎯𝘎𝘳𝘰𝘶𝘱🎯", url="https://t.me/Cinema_world_officiel"),
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
                 ],
                 [
-                    InlineKeyboardButton("♻️ All Channels List ♻️", url="https://t.me/joinchat/PRLOAkXhcidiMzk1")
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘓𝘪𝘴𝘵🎯", url="https://t.me/cw_access_bot")
                 ]
             ]
         ),
@@ -247,12 +247,9 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How To Make Me", url="https://t.me/potatospecs"),
-                    InlineKeyboardButton("Maintained By", url="https://t.me/potatospecs")
-                ],
-                [
-                    InlineKeyboardButton("Want a custom bot?", url="https://t.me/potatospecs"),
-                    InlineKeyboardButton("Contact me!", url="https://t.me/potatospecs")
+                    InlineKeyboardButton("BACK📲", callback_data="help_data"),
+
+                    InlineKeyboardButton("CLOSE🔐", callback_data="close_data"),
                 ]
             ]
         ),
