@@ -15,6 +15,7 @@ class Script(object):
 
 
     ABOUT_MSG = """➥ Name :Cw Filter Bot
+
 ➥ Creator : @cw_perfect
 
 ➥ Language : Python3
