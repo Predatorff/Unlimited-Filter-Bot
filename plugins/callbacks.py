@@ -30,11 +30,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Request Group💯", url="https://t.me/Cinema_world_officiel"),
-                    InlineKeyboardButton("Main Channel💯", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
+                    InlineKeyboardButton("🎯𝘎𝘳𝘰𝘶𝘱🎯", url="https://t.me/Cinema_world_officiel"),
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/JOKzFUR3I8llZDdl")
                 ],
                 [
-                    InlineKeyboardButton("⚜️All Channels List⚜️", url="https://t.me/")
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘓𝘪𝘴𝘵🎯", url="https://t.me/cw_access_bot")
                  ]
             ]
         )
@@ -51,8 +51,8 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("BACK📲", callback_data="help_data"),
+                    InlineKeyboardButton("CLOSE🔐", callback_data="close_data"),
 
                     
                 ]
@@ -75,8 +75,8 @@ async def cb_handler(client, query):
                         "Source Code", url="https://github.com/IcaRuZDaedalus/Unlimited-Filter-Bot")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("BACK📲", callback_data="help_data"),
+                    InlineKeyboardButton("CLOSE🔐", callback_data="close_data"),
                 ]                
             ]
         )
