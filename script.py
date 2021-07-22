@@ -14,12 +14,14 @@ class Script(object):
 
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
+    ABOUT_MSG = """➥ Name :  Auto Filter Bot
+➥ Creator : perfect
 
-⭕️<b>Creater :</b> @cw_perfect 
+➥ Language : Python3
 
-⭕️<b>Language :</b> <code>Python3</code>
+➥ Library : Pyrogram Asyncio 1.13.0
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+➥ Source Code : Click Me
 
-"""
+    
+
