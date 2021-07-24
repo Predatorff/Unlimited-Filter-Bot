@@ -16,13 +16,15 @@ class Script(object):
 
     ABOUT_MSG = """➥ Name :Cw Filter Bot
 
-➥ Creator : @cw_perfect
+<b>➥ Creator</b> : @cw_perfect
 
-➥ Language : Python3
+<b>➥ Language</b> : Python3
 
-➥ Library : <a href="https://docs.pyrogram.org/" >Pyrogram 1.0.7</a>
+<b>➥ Server</b> : paid server💵
 
-➥ Source Code : <a href="https://telegra.ph/file/f30d29cafa026c7866873.jpg" >𝘊𝘭𝘪𝘤𝘬 𝘮𝘦😝</a>
+<b>➥ Library</b> : <a href="https://docs.pyrogram.org/" >Pyrogram 1.0.7</a>
+
+<b>➥ Source Code</b> : <a href="https://telegra.ph/file/f30d29cafa026c7866873.jpg" >𝘊𝘭𝘪𝘤𝘬 𝘮𝘦😝</a>
 """
     
 
