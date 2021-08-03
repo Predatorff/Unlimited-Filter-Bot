@@ -31,7 +31,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton("🎯𝘎𝘳𝘰𝘶𝘱🎯", url="https://t.me/Cinema_world_officiel"),
-                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/5qjx72HxFXA0YWZl")
+                    InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭🎯", url="https://t.me/joinchat/GhwfMGyKmyA4NGQ1")
                 ],
                 [
                     InlineKeyboardButton("🎯𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘓𝘪𝘴𝘵🎯", url="https://t.me/cw_access_bot")
