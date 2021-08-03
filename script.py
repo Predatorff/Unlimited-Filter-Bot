@@ -14,17 +14,19 @@ class Script(object):
 
 
 
-    ABOUT_MSG = """➥ Name :Cw Filter Bot
+    ABOUT_MSG = """➥ Name :ʀᴀsʜᴍɪᴋᴀ ʙᴏᴛ²
 
-<b>➥ Creator</b> : @cw_perfect
+<b>➥ Creator</b> : <a href="https://t.me/cw_perfect" >★Perfect★</a>
+
+<b>➥ Owner</b> : <a href="https://t.me/Donttakemy_username" >★Joker★</a>
 
 <b>➥ Language</b> : Python3
 
-<b>➥ Server</b> : paid server💵
+<b>➥ Server</b> : May Be Paidserver
 
 <b>➥ Library</b> : <a href="https://docs.pyrogram.org/" >Pyrogram 1.0.7</a>
 
-<b>➥ Source Code</b> : <a href="https://telegra.ph/file/f30d29cafa026c7866873.jpg" >𝘊𝘭𝘪𝘤𝘬 𝘮𝘦😝</a>
 """
+
     
 
