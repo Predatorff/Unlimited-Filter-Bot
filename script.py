@@ -24,7 +24,6 @@ class Script(object):
 
 <b>➥ Server</b> : May Be Paidserver
 
-<b>➥ Library</b> : <a href="https://docs.pyrogram.org/" >Pyrogram 1.0.7</a>
 
 """
 
